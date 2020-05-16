@@ -138,7 +138,7 @@
 // Learn More
 "learnMoreVC.title" = "Predictions";
 "learnMoreVC.text1" = "Alpenglow uses your device location to retrieve Sunset/Sunrise predictions from SunsetWX.";
-"learnMoreVC.text2" = "SunsetWX makes use of various atmospheric factors to calculate a prediction for quality each day. These include Cloud Height & Type, Humidity, Pressure Changes, Wind Direction & Speed, Atmospheric Particulates & Topgraphy.";
+"learnMoreVC.text2" = "SunsetWX makes use of various atmospheric factors to calculate a prediction for quality each day. These include Cloud Height & Type, Humidity, Pressure Changes, Wind Direction & Speed, Atmospheric Particulates & Topography.";
 "learnMoreVC.text3" = "Everyone has their own idea of a great Sunset/Sunrise, SunsetWX defines a great sunrise/sunset by the \"wow\" factor it creates.";
 "learnMoreVC.text4" = "\"To some, a clear sky at the Time of Sunset may be the definition of a great one. In this model, it is our intent to weight a clear sky sunset as average, and therefore, it would show up as green or light yellow. The oranges and reds are really the areas where we are trying to show that the Sunset will be one of those that makes you go \"Wow\".\"";
 "learnMoreVC.close" = "Close";
