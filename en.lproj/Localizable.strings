@@ -6,6 +6,7 @@
   Copyright © 2019 Andrew Yates. All rights reserved.
 */
 
+// Common
 "whoops" = "Whoops";
 "cancel" = "Cancel";
 
@@ -30,13 +31,26 @@
 "notificationsVC.error.message" = "Looks like Alpenglow doesn't have permission to send notifications. To recieve notifications for sunrise, sunset and golden hours we'll need permissions to be allowed in Settings.";
 "notificationsVC.error.continue" = "Continue";
 
+// Notifications
+"reminder.goldenHour.twoHours" = "Golden Hour is 2 hours away.";
+"reminder.goldenHour.minutes" = "Golden Hour is %li minutes away!";
+"reminder.goldenHour.now" = "Golden Hour is about to start!";
+
+"reminder.sunrise.twoHours" = "Sunrise is 2 hours away.";
+"reminder.sunrise.minutes" = "The sun will rise in about %li minutes!";
+"reminder.sunrise.now" = "The sun is rising. 🌅";
+
+"reminder.sunset.twoHours" = "The sun will set in about 2 hours.";
+"reminder.sunset.minutes" = "The sun will set in about %li minutes!";
+"reminder.sunset.now" = "The sun is setting. 🌇";
+
 
 // App
-
 "tab.sun" = "Sun";
 "tab.notifications" = "Notifications";
 "tab.settings" = "Settings";
 
+// Main
 "mainVC.header.selectedLocation" = "Selected Location";
 "mainVC.header.currentLocation" = "Current Location";
 "mainVC.predictions.title" = "Predictions";
@@ -44,6 +58,10 @@
 "mainVC.predictions.sunrise" = "Sunrise";
 "mainVC.predictions.sunset" = "Sunset";
 "mainVC.predictions.qualityPrediction" = "Quality Prediction";
+"mainVC.predictions.quality.poor" = "Poor";
+"mainVC.predictions.quality.fair" = "Fair";
+"mainVC.predictions.quality.good" = "Good";
+"mainVC.predictions.quality.great" = "Great";
 "mainVC.predictions.loading" = "Loading";
 "mainVC.predictions.error" = "Sorry, we could not load the prediction.";
 "mainVC.predictions.inXHours" = "in %ld hours";
@@ -64,6 +82,7 @@
 "mainVC.locationActionSheet.pick" = "Pick Location";
 "mainVC.locationActionSheet.cancel" = "Cancel";
 
+// Notifications
 "notificationsVC.title" = "Notifications";
 "notificationsVC.reminderNotifications" = "Reminder Notifications";
 "notificationsVC.goldenHour" = "Golden Hour";
@@ -83,6 +102,7 @@
 "notificationsVC.permissionSettings" = "Enable Notifications";
 "notificationsVC.permissionSettingsCell" = "Open Settings to allow us to send notifications";
 
+// Settings
 "settingsVC.title" = "Settings";
 "settingsVC.alpenglowPro" = "Alpenglow Pro";
 "settingsVC.alpenglowProUnlock" = "Unlock additional features";
@@ -94,16 +114,20 @@
 "settingsVC.siriShortcuts" = "Siri Shortcuts";
 "settingsVC.sunriseShortcut" = "Sunrise Prediction Siri Shortcut";
 "settingsVC.sunsetShortcut" = "Sunset Prediction Siri Shortcut";
+"settingsVC.localization" = "Localize";
+"settingsVC.localization.help" = "Help Localize Alpenglow";
 "settingsVC.social" = "Social";
 "settingsVC.social.instagram" = "Follow Alpenglow on Instagram";
 "settingsVC.social.twitter" = "Follow Alpenglow on Twitter";
 "settingsVC.social.facebook" = "Like Alpenglow on Facebook";
 "settingsVC.review" = "Review Alpenglow on the App Store";
 "settingsVC.privacy" = "Privacy Policy";
+"settingsVC.feedback" = "Feedback";
 "settingsVC.feedback.email" = "Send Feedback";
 "settingsVC.feedback.title" = "Feedback Welcome";
 "settingsVC.feedback.message" = "Drop me an email at feedback@alpenglowapp.com. :)";
 
+// Theme Settings
 "themeSettings.close" = "Close";
 "themeSettings.title" = "Appearance";
 "themeSettings.table.title" = "Select Appearance";
@@ -111,6 +135,7 @@
 "themeSettings.table.light" = "Light";
 "themeSettings.table.dark" = "Dark";
 
+// Learn More
 "learnMoreVC.title" = "Predictions";
 "learnMoreVC.text1" = "Alpenglow uses your device location to retrieve Sunset/Sunrise predictions from SunsetWX.";
 "learnMoreVC.text2" = "SunsetWX makes use of various atmospheric factors to calculate a prediction for quality each day. These include Cloud Height & Type, Humidity, Pressure Changes, Wind Direction & Speed, Atmospheric Particulates & Topgraphy.";
@@ -118,7 +143,7 @@
 "learnMoreVC.text4" = "\"To some, a clear sky at the Time of Sunset may be the definition of a great one. In this model, it is our intent to weight a clear sky sunset as average, and therefore, it would show up as green or light yellow. The oranges and reds are really the areas where we are trying to show that the Sunset will be one of those that makes you go \"Wow\".\"";
 "learnMoreVC.close" = "Close";
 
-
+// Alpenglow Pro
 "proVC.title" = "Unlock Alpenglow Pro";
 "proVC.additionalTitle" = "You're Awesome!";
 "proVC.close" = "Close";
@@ -136,10 +161,14 @@
 "proVC.restored.title" = "Restored";
 "proVC.restored.proRestored" = "Alpenglow Pro has been restored.";
 "proVC.restored.purchasesRestored" = "Your purchases have been restored.";
-
 "proVC.restore.errorTitle" = "Whoops";
 "proVC.restore.errorMessage" = "Unable to find previous tip purchase.";
+"proVC.tip.small" = "Sweet-Sized Tip";
+"proVC.tip.medium" = "Coffee-Sized Tip";
+"proVC.tip.large" = "Lunch-Sized Tip";
+"proVC.tip.extraLarge" = "Dinner-Sized Tip";
 
+// Tip Prompt
 "tipPrompt.title" = "Enjoying Alpenglow?";
 "tipPrompt.message" = "Alpenglow is supported by tips. This helps cover the cost of running Alpenglow, along with future development of the app.\n\nAs a thank you you'll unlock a few additional features.";
 "tipPrompt.showTipOptions" = "Show Tip Options";
