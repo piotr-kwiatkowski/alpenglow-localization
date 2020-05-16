@@ -4,7 +4,7 @@ This is the community language repository for [Alpenglow](https://itunes.apple.c
 
 If you want to see Alpenglow in another language that isn't already available and have some git-fu, feel free to submit a pull request to the repository.
 
-If you don't know about git feel free to grab the file here and send it over via the contact option on the [website](https://alpenglowapp.com).
+If you don't know about git feel free to grab the [file here](https://github.com/ay8s/alpenglow-localization/blob/master/en.lproj/Localizable.strings) and send it over via the contact option on the [website](https://alpenglowapp.com).
 
 
 ### Structure
