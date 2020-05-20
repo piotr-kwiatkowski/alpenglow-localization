@@ -67,6 +67,8 @@
 "mainVC.predictions.inXHours" = "in %ld hours";
 "mainVC.predictions.inXMinutes" = "in %ld minutes";
 "mainVC.predictions.share" = "Share";
+"mainVC.predictions.notAvailable" = "Not Available";
+"mainVC.predictions.errorFetching" = "Error Fetching";
 
 "mainVC.times.title" = "Times";
 "mainVC.times.notifications" = "Notifications";
