@@ -1,10 +1,10 @@
 /*
-  Localizabe.strings
-  Alpenglow
-
-  Created by Andrew Yates on 2/13/19.
-  Copyright © 2019 Andrew Yates. All rights reserved.
-*/
+ Localizabe.strings
+ Alpenglow
+ 
+ Created by Andrew Yates on 2/13/19.
+ Copyright © 2019 Andrew Yates. All rights reserved.
+ */
 
 // Common
 "whoops" = "Whoops";
@@ -133,6 +133,7 @@
 "settingsVC.localization" = "Translate";
 "settingsVC.localization.help" = "Help Translate Alpenglow";
 "settingsVC.social" = "Social";
+"settingsVC.social.reddit" = "Join the Reddit community";
 "settingsVC.social.instagram" = "Follow Alpenglow on Instagram";
 "settingsVC.social.twitter" = "Follow Alpenglow on Twitter";
 "settingsVC.social.facebook" = "Like Alpenglow on Facebook";
@@ -184,6 +185,8 @@
 "proVC.tip.medium" = "Coffee-Sized Tip";
 "proVC.tip.large" = "Lunch-Sized Tip";
 "proVC.tip.extraLarge" = "Dinner-Sized Tip";
+"proVC.disclaimer" = "*Alpenglow never stores your location on a server. So all notifications are scheduled on your device.\n\n*In some cases iOS may not wake Alpenglow in the background to allow the app to schedule prediction notifications. Low battery, being in low power mode etc can all effect whether iOS allows Alpenglow to fetch the prediction.";
+"proVC.restorePurchases" = "Restore Purchases";
 
 // Tip Prompt
 "tipPrompt.title" = "Enjoying Alpenglow?";
