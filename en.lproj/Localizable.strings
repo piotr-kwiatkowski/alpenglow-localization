@@ -116,7 +116,7 @@
 
 // Settings
 "settings.navBar.title" = "Settings";
-"settings.support.title" = "Support Alpenglow Pro";
+"settings.support.title" = "Support Alpenglow";
 "settings.support.plus" = "Alpenglow Plus";
 "settings.support.pro" = "Alpenglow Pro";
 "settings.support.tip" = "Send an additional tip";
@@ -146,7 +146,7 @@
 "customColor.dawn" = "Dawn";
 
 // App Icons
-"appIcon.navBar.title" = "Primary App Color";
+"appIcon.navBar.title" = "Change App Icon";
 "appIcon.default" = "Default";
 "appIcon.classic" = "Classic";
 "appIcon.daytime" = "Daytime";
@@ -191,11 +191,14 @@
 // IAPS
 "iap.sweet" = "Sweet-Sized Tip";
 "iap.snack" = "Snack-Sized Tip";
+"iap.coffee" = "Coffee-Sized Tip";
 "iap.lunch" = "Lunch-Sized Tip";
 "iap.dinner" = "Dinner-Sized Tip";
 "iap.errorRetrieving" = "Unable to retrieve In-App Purchases";
 "iap.purchasing" = "Purchasing";
 "iap.subscribe" = "Subscribe to";
+"iap.restore" = "Restore Purchases";
+"iap.restoring" = "Restoring";
 
 // Push Notifications
 "reminders.goldenHour.starting" = "Golden hour is starting now...";
