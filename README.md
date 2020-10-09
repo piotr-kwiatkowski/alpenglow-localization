@@ -31,10 +31,6 @@ Where you see a `%@` or `%ld` token, this denotes a value that is replaced at ru
 
 `"mainVC.predictions.inXMinutes" = "in %ld minutes";`
 
-
-### Credits
-
-Please append the name you would like to be credited by to the pull request or the comment block at the top of the Localizable.strings file.
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
