@@ -124,6 +124,8 @@
 "settings.appearance.title" = "Appearance";
 "settings.appearance.color" = "Customize App Colors";
 "settings.appearance.icon" = "Change App Icon";
+"settings.config.title" = "Configuration";
+"settings.config.deviceTimezone" = "Use Device Timezone";
 "settings.social.title" = "Social";
 "settings.social.reddit" = "Alpenglow Reddit Community";
 "settings.social.instagram" = "Follow Alpenglow on Instagram";
@@ -167,6 +169,7 @@
 "plus.support.title" = "Support an Indie Developer";
 "plus.support.description" = "Alpenglow is a passion project of a single developer who loves writing code and watching amazing sunsets. Your support allows me to not only keep Alpenglow running, but to keep making it better.";
 "plus.unlocked" = "You've unlocked Alpenglow Plus";
+"plus.pro" = "View Alpenglow Pro";
 
 // Pro
 "pro.navBar.title" = "Unlock Alpenglow Pro";
@@ -183,6 +186,7 @@
 "pro.plusFeatures" = "As well as these Alpenglow Plus features...";
 "pro.forecastNotifications.disclaimer1" = "* Alpenglow never stores your location on a server. So all notifications are scheduled on your device.";
 "pro.forecastNotifications.disclaimer2" = "* In some cases iOS may not wake Alpenglow in the background to allow the app to schedule prediction notifications. Low battery, being in low power mode etc can all effect whether iOS allows Alpenglow to fetch the prediction.";
+"pro.blurb" = "Payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase.\n\nYou can manage and cancel your subscriptions within your App Store Account Settings after purchasing.";
 
 // Tip
 "tipJar.navBar.title" = "Tip Jar";
@@ -199,6 +203,7 @@
 "iap.subscribe" = "Subscribe to";
 "iap.restore" = "Restore Purchases";
 "iap.restoring" = "Restoring";
+"iap.terms" = "Terms of Use";
 
 // Push Notifications
 "reminders.goldenHour.starting" = "Golden hour is starting now...";
@@ -208,6 +213,9 @@
 "reminders.sunrise.relative" = "Sunrise is %@ at %@. 🌅";
 "reminders.sunset.setting" = "The sun is setting now. 🌇";
 "reminders.sunset.relative" = "Sunset is %@ at %@. 🌇";
+
+// Forecast Notifications
+"forecastNotification.text" = "%@ is predicted to be %@ (%@%) in %@.";
 
 // Shares
 "share.fetching" = "Fetching Share";
