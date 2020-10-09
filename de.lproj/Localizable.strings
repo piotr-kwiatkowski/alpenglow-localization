@@ -124,6 +124,8 @@
 "settings.appearance.title" = "Darstellung";
 "settings.appearance.color" = "App-Farben anpassen";
 "settings.appearance.icon" = "App-Symbol ändern";
+"settings.config.title" = "Aufbau";
+"settings.config.deviceTimezone" = "Verwenden Sie die Gerätezeitzone";
 "settings.social.title" = "Soziale Medien";
 "settings.social.reddit" = "Reddit-Community von Alpenglow";
 "settings.social.instagram" = "Alpenglow auf Instagram folgen";
@@ -167,6 +169,7 @@
 "plus.support.title" = "Unterstützen Sie einen Indie-Entwickler";
 "plus.support.description" = "Alpenglow ist ein Leidenschaftsprojekt eines einzelnen Entwicklers, der es liebt, Code zu schreiben und atemberaubende Sonnenuntergänge zu beobachten. Ihre Unterstützung ermöglicht es mir, Alpenglow nicht nur am Laufen zu halten, sondern es auch weiter zu verbessern.";
 "plus.unlocked" = "Sie haben Alpenglow Plus freigeschaltet";
+"plus.pro" = "Alpenglow Pro anzeigen";
 
 // Pro
 "pro.navBar.title" = "Alpenglow Pro freischalten";
@@ -183,6 +186,7 @@
 "pro.plusFeatures" = "Sowie diese Alpenglow-Plus-Funktionen & ";
 "pro.forecastNotifications.disclaimer1" = "*Alpenglow speichert Ihren Standort niemals auf einem Server. Daher werden alle Benachrichtigungen auf Ihrem Gerät geplant.";
 "pro.forecastNotifications.disclaimer2" = "*In einigen Fällen weckt iOS Alpenglow möglicherweise nicht im Hintergrund, damit die App Vorhersagebenachrichtigungen planen kann. Ein schwacher Akku, ein Energiesparmodus usw. können sich darauf auswirken, ob iOS Alpenglow erlaubt, die Vorhersage abzurufen.";
+"pro.blurb" = "Payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase.\n\nYou can manage and cancel your subscriptions within your App Store Account Settings after purchasing.";
 
 // Tip
 "tipJar.navBar.title" = "Trinkgeld";
@@ -199,6 +203,7 @@
 "iap.subscribe" = "Abonnieren";
 "iap.restore" = "Einkäufe wiederherstellen";
 "iap.restoring" = "Wiederherstellen";
+"iap.terms" = "Nutzungsbedingungen";
 
 // Push Notifications
 "reminders.goldenHour.starting" = "Die goldene Stunde startet jetzt & ";
@@ -208,6 +213,9 @@
 "reminders.sunrise.relative" = "Sonnenaufgang ist %@ um %@.";
 "reminders.sunset.setting" = "Die Sonne geht jetzt unter.";
 "reminders.sunset.relative" = "Der Sonnenuntergang ist %@ um %@.";
+
+// Forecast Notifications
+"forecastNotification.text" = "Die Prognose für den %@ ist %@ (%ld%%) in %@ um %@.";
 
 // Shares
 "share.fetching" = "Teilen wird abgerufen";
