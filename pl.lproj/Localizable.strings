@@ -1,0 +1,224 @@
+/*
+  Localizabe.strings
+  Alpenglow
+
+  Created by Andrew Yates on 2/13/19.
+  Copyright © 2019 Andrew Yates. All rights reserved.
+*/
+
+// Common
+"Whoops" = "Whoops";
+"Cancel" = "Cancel";
+"Done" = "Done";
+"Close" = "Close";
+"Got it!" = "Got it!";
+"Fetching" = "Fetching";
+"Creating" = "Creating";
+
+// Onboarding
+"onboarding.noun" = "noun";
+"onboarding.definition1" = "1. the rosy light of the setting or rising sun seen on high mountains.";
+"onboarding.definition2" = "2. An app that shows you sunrise & sunset times alongside quality forecasts.";
+"onboarding.getStarted" = "Get Started";
+
+"onboarding.location.title" = "Location";
+"onboarding.location.description" = "Your location is only ever stored on your device.\n\nYou can also manually select a location to browse times and forecasts for other locations.";
+"onboarding.location.allow" = "Allow Location Permissions";
+"onboarding.location.skip" = "Select Location Manually Later";
+
+"onboarding.notifications.title" = "Notifications";
+"onboarding.notifications.description" = "Receive reminders for Sunrise, Sunset and Golden Hours. Enable Notifications to be able to get these notifications.\n\nYou can adjust these notifications at any time.";
+"onboarding.notifications.allow" = "Enable Notifications";
+"onboarding.notifications.skip" = "Enable Later";
+
+"onboarding.error.location." = "Couldn't determine your location.";
+"onboarding.error.notifications" = "Looks like Notification permissions have been denied. Grant permissions within Settings or continue without notifications.";
+
+// Tabs
+"tabs.times" = "Times";
+"tabs.notifications" = "Notifications";
+"tabs.settings" = "Settings";
+
+// Times View
+"times.location.fetching" = "Fetching";
+"times.location.change" = "Change";
+"times.location.changeLocation" = "Change Location";
+"times.location.current" = "Current Location";
+"times.location.fetchingLocation" = "Fetching Location";
+"times.date.previous" = "Previous Date";
+"times.date.next" = "Next Date";
+"times.date.today" = "Today";
+"times.date.tomorrow" = "Tomorrow";
+"times.date.yesterday" = "Yesterday";
+"times.date.datePicker" = "View times for...";
+"times.date.datePicker.today" = "Return to Today";
+"times.locationAlert.title" = "Change Location";
+"times.locationAlert.description" = "Would you like to pick a new location or use your current location?";
+"times.locationAlert.current" = "Use Current Location";
+"times.locationAlert.pick" = "Pick a Location";
+"times.noLocation.title" = "Location Not Retrieved";
+"times.noLocation.settings" = "Open Settings to Enable Permissions";
+"times.noLocation.enable" = "Enable Location Permissions";
+"times.noLocation.select" = "Select a Manual Location";
+
+// Predications
+"prediction.report.title" = "How is it looking?";
+"prediction.report.button" = "Submit Report";
+"prediction.poor" = "Poor";
+"prediction.fair" = "Fair";
+"prediction.good" = "Good";
+"prediction.great" = "Great";
+"prediction.error" = "Couldn't retrieve forecast";
+"prediction.share" = "Share Forecast";
+"prediction.shareString" = "The %@ is forecasted to be %@ (%ld%%) in %@ at %@.";
+"prediction.shareVia" = "via";
+"events.blueHour" = "Blue Hour";
+"events.goldenHour" = "Golden Hour";
+"events.sunrise" = "Sunrise";
+"events.daytime" = "Daytime";
+"events.sunset" = "Sunset";
+
+// Location
+"location.navBar.title" = "Search";
+"location.placeholder" = "Search for Location";
+
+// Field Report
+"report.navBar.title" = "Field Report";
+"report.navBar.cancel" = "Cancel";
+"report.navBar.submit" = "Submit";
+"report.description" = "You can help improve Alpenglow by submitting a field report. These will then be used to make forecasts more accurate over time.\n\nWhen you submit a field report we'll store the forecast, your score and your aproximate location.";
+"report.forecastedScore" = "Forecasted Score";
+"report.actualScore" = "Actual Score";
+"report.changePhoto" = "Change Photo";
+"report.selectPhoto" = "Select a Photo";
+"report.allowShare" = "Allow Alpenglow to Share Photo";
+"report.instagramUsername" = "Instagram Username";
+"report.photo" = "Please attach a photo to attach to your field report.";
+
+// Notifications
+"notifications.navBar.title" = "Notifications";
+"notifications.denied" = "Notifications are Disabled";
+"notifications.enable" = "Enable Push Notifications";
+"notifications.reminders.title" = "Reminders";
+"notifications.reminders.morningGoldenHour" = "Golden Hour (Morning)";
+"notifications.reminders.sunrise" = "Sunrise";
+"notifications.reminders.eveningGoldenHour" = "Golden Hour (Evening)";
+"notifications.reminders.sunset" = "Sunset";
+"notifications.reminderOffset.title" = "Reminder Offset";
+"notifications.reminderOffset.0mins" = "At event time";
+"notifications.reminderOffset.15mins" = "15 minutes before";
+"notifications.reminderOffset.30mins" = "30 minutes before";
+"notifications.reminderOffset.60mins" = "1 hour before";
+"notifications.reminderOffset.120mins" = "2 Hours before";
+"notifications.forecast.title" = "Forecast Notifications";
+"notifications.forecast.threshold" = "Threshold";
+"notifications.forecast.unlock" = "Unlock with Alpenglow Pro";
+
+// Settings
+"settings.navBar.title" = "Settings";
+"settings.support.title" = "Support Alpenglow";
+"settings.support.plus" = "Alpenglow Plus";
+"settings.support.pro" = "Alpenglow Pro";
+"settings.support.tip" = "Send an additional tip";
+"settings.support.rate" = "Rate Alpenglow on the App Store";
+"settings.appearance.title" = "Appearance";
+"settings.appearance.color" = "Customize App Colors";
+"settings.appearance.icon" = "Change App Icon";
+"settings.config.title" = "Configuration";
+"settings.config.deviceTimezone" = "Use Device Timezone";
+"settings.social.title" = "Social";
+"settings.social.reddit" = "Alpenglow Reddit Community";
+"settings.social.instagram" = "Follow Alpenglow on Instagram";
+"settings.social.twitter" = "Follow Alpenglow on Twitter";
+"settings.social.facebook" = "Follow Alpenglow on Facebook";
+"settings.translate.title" = "Translate";
+"settings.translate.help" = "Help Translate Alpenglow";
+"settings.feedback.title" = "Help Make Alpenglow Better";
+"settings.feedback.send" = "Send Feedback";
+"settings.feedbackAlert.title" = "Feedback";
+"settings.feedbackAlert.description" = "Drop me an email to feedback@alpenglowapp.com and lets make Alpenglow even better.";
+"settings.privacyPolicy" = "Privacy Policy";
+
+// App Color
+"customColor.navBar.title" = "Primary App Color";
+"customColor.default" = "Default";
+"customColor.classic" = "Classic";
+"customColor.daytime" = "Daytime";
+"customColor.silhouette" = "Silhouette";
+"customColor.dawn" = "Dawn";
+
+// App Icons
+"appIcon.navBar.title" = "Change App Icon";
+"appIcon.default" = "Default";
+"appIcon.classic" = "Classic";
+"appIcon.daytime" = "Daytime";
+"appIcon.silhouette" = "Silhouette";
+"appIcon.dawn" = "Dawn";
+
+// Plus
+"plus.navBar.title" = "Unlock Alpenglow Plus";
+"plus.description" = "Alpenglow Plus unlocks additional features. Just leave a tip and it'll be unlocked for you as a thank you for your support.\n\n You can unlock even more features with Alpenglow Pro, including forecast notifications.";
+"plus.future.title" = "See further into the future";
+"plus.future.description" = "With Alpenglow Plus you can see up to 4 days into the future (vs today & tomorrow).";
+"plus.accuracy.title" = "Increased Accuracy";
+"plus.accuracy.description" = "Forecasts will be fetched using a coordinate closer to your exact location.";
+"plus.elevation.title" = "Location Elevation";
+"plus.elevation.description" = "Location elevation will be retrieved and used to provide more accurate times for Sunrise, Sunset and Golden Hour times.";
+"plus.customization.title" = "Customization";
+"plus.customization.description" = "Adjust the color scheme of the app as well as select from different versions of the App Icon.";
+"plus.support.title" = "Support an Indie Developer";
+"plus.support.description" = "Alpenglow is a passion project of a single developer who loves writing code and watching amazing sunsets. Your support allows me to not only keep Alpenglow running, but to keep making it better.";
+"plus.unlocked" = "You've unlocked Alpenglow Plus";
+"plus.pro" = "View Alpenglow Pro";
+
+// Pro
+"pro.navBar.title" = "Unlock Alpenglow Pro";
+"pro.legacyDescription" = "You're awesome! You already have unlocked Alpenglow Pro when you previously tipped, you have all of the features listed below.\n\nIf you want to be extra awesome and support Alpenglow further you can choose to Subscribe to a new Alpenglow Pro Subscription or Lifetime payment.";
+"pro.description" = "Alpenglow Pro unlocks everything in Alpenglow Plus, along with some extra features that incur ongoing server costs and additional SunsetWX usage.";
+"pro.forecastNotifications.title" = "Forecast Notifications *";
+"pro.forecastNotifications.description" = "We've all missed an amazing sunrise or sunset. Receive notifications when the forecast for your location is above a threshold set by you.";
+"pro.forecastWidgets.title" = "Forecast Widgets";
+"pro.forecastWidgets.description" = "Unlock Forecast Widgets for your Home Screen. With the ability to display widgets for multiple locations.";
+"pro.weather.title" = "Weather Conditions";
+"pro.weather.description" = "View weather conditions alongside Sunrise and Sunset Forecasts. Use these extra details to validate quality forecasts.";
+"pro.accuracy.title" = "More accuracy";
+"pro.accuracy.description" = "Alpenglow will use an approximate location to retrieve predictions. With Alpenglow Pro the app will use your exact location to retrieve predictions.";
+"pro.plusFeatures" = "As well as these Alpenglow Plus features...";
+"pro.forecastNotifications.disclaimer1" = "* Alpenglow never stores your location on a server. So all notifications are scheduled on your device.";
+"pro.forecastNotifications.disclaimer2" = "* In some cases iOS may not wake Alpenglow in the background to allow the app to schedule prediction notifications. Low battery, being in low power mode etc can all effect whether iOS allows Alpenglow to fetch the prediction.";
+"pro.blurb" = "Payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase.\n\nYou can manage and cancel your subscriptions within your App Store Account Settings after purchasing.";
+
+// Tip
+"tipJar.navBar.title" = "Tip Jar";
+"tipJar.description" = "Thanks for already supporting Alpenglow.\n\nIf you're really enjoying the app and would like to extend your support, any additional tips help cover costs and continued development.";
+
+// IAPS
+"iap.sweet" = "Sweet-Sized Tip";
+"iap.snack" = "Snack-Sized Tip";
+"iap.coffee" = "Coffee-Sized Tip";
+"iap.lunch" = "Lunch-Sized Tip";
+"iap.dinner" = "Dinner-Sized Tip";
+"iap.errorRetrieving" = "Unable to retrieve In-App Purchases";
+"iap.purchasing" = "Purchasing";
+"iap.subscribe" = "Subscribe to";
+"iap.restore" = "Restore Purchases";
+"iap.restoring" = "Restoring";
+"iap.terms" = "Terms of Use";
+
+// Push Notifications
+"reminders.goldenHour.starting" = "Golden hour is starting now...";
+"reminders.goldenHour.beginning" = "Golden hour is beginning now...";
+"reminders.goldenHour.relative" = "Golden hour is %@ at %@.";
+"reminders.sunrise.rising" = "The sun is rising now. 🌅";
+"reminders.sunrise.relative" = "Sunrise is %@ at %@. 🌅";
+"reminders.sunset.setting" = "The sun is setting now. 🌇";
+"reminders.sunset.relative" = "Sunset is %@ at %@. 🌇";
+
+// Forecast Notifications
+"forecastNotification.text" = "%@ is predicted to be %@ (%@%) in %@.";
+
+// Shares
+"share.fetching" = "Fetching Share";
+"share.fetchFailed" = "Failed to fetch shared forecast";
+"share.eventOccurred" = "This %@ has already happened.";
+"share.checkYours" = "Check your forecast for today";
