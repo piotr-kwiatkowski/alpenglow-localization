@@ -7,59 +7,59 @@
 */
 
 // Common
-"Whoops" = "Whoops";
-"Cancel" = "Cancel";
-"Done" = "Done";
-"Close" = "Close";
-"Got it!" = "Got it!";
-"Fetching" = "Fetching";
-"Creating" = "Creating";
+"Whoops" = "Ups";
+"Cancel" = "Odrzuć";
+"Done" = "Zrobione";
+"Close" = "Zamknij";
+"Got it!" = "Kumam to!";
+"Fetching" = "Pobieranie";
+"Creating" = "Tworzenie";
 
 // Onboarding
-"onboarding.noun" = "noun";
-"onboarding.definition1" = "1. the rosy light of the setting or rising sun seen on high mountains.";
-"onboarding.definition2" = "2. An app that shows you sunrise & sunset times alongside quality forecasts.";
-"onboarding.getStarted" = "Get Started";
+"onboarding.noun" = "rzeczownik";
+"onboarding.definition1" = "1. różowa albo czerwonawa poświata, widywana o wschodzie lub zachodzie słońca na szczytach gór, szczególnie pokrytych śniegiem.";
+"onboarding.definition2" = "2. aplikacja pokazująca godziny wschodów i zachodów słońca wraz z prognozą widoczności(?)"; //"2. An app that shows you sunrise & sunset times alongside quality forecasts.";
+"onboarding.getStarted" = "Rozpocznij";
 
-"onboarding.location.title" = "Location";
-"onboarding.location.description" = "Your location is only ever stored on your device.\n\nYou can also manually select a location to browse times and forecasts for other locations.";
-"onboarding.location.allow" = "Allow Location Permissions";
-"onboarding.location.skip" = "Select Location Manually Later";
+"onboarding.location.title" = "Lokalizacja";
+"onboarding.location.description" = "Twoja lokalizacja jest zapisywana wyłącznie na Twoim urządzeniu.\n\nMożesz także ustawić lokalizację ręcznie, żeby sprawdzić prognozy dla innych lokalizacji.";
+"onboarding.location.allow" = "Daj dostęp Usługom lokalizacji";
+"onboarding.location.skip" = "Wybierz lokalizację ręcznie później";
 
-"onboarding.notifications.title" = "Notifications";
-"onboarding.notifications.description" = "Receive reminders for Sunrise, Sunset and Golden Hours. Enable Notifications to be able to get these notifications.\n\nYou can adjust these notifications at any time.";
-"onboarding.notifications.allow" = "Enable Notifications";
-"onboarding.notifications.skip" = "Enable Later";
+"onboarding.notifications.title" = "Powiadomienia";
+"onboarding.notifications.description" = "Otrzymuj powiadomienia o wschodach i zachodach słońca oraz o złotej i błękitnej godzinie. Włącz powiadomienia, żeby je otrzymywać.\n\nMożesz edytować te powiadomienia w dowolnym momencie.";
+"onboarding.notifications.allow" = "Włącz powiadomienia";
+"onboarding.notifications.skip" = "Włącz później";
 
-"onboarding.error.location." = "Couldn't determine your location.";
-"onboarding.error.notifications" = "Looks like Notification permissions have been denied. Grant permissions within Settings or continue without notifications.";
+"onboarding.error.location." = "Nie można ustalić Twojej lokalizacji.";
+"onboarding.error.notifications" = "Wygląda na to, że powiadomienia nie są włączone. Włącz powiadomienia w Ustawieniach lub kontynuuj bez powiadomień.";
 
 // Tabs
-"tabs.times" = "Times";
-"tabs.notifications" = "Notifications";
-"tabs.settings" = "Settings";
+"tabs.times" = "Pory dnia";
+"tabs.notifications" = "Powiadomienia";
+"tabs.settings" = "Ustawienia";
 
 // Times View
-"times.location.fetching" = "Fetching";
-"times.location.change" = "Change";
-"times.location.changeLocation" = "Change Location";
-"times.location.current" = "Current Location";
-"times.location.fetchingLocation" = "Fetching Location";
-"times.date.previous" = "Previous Date";
-"times.date.next" = "Next Date";
-"times.date.today" = "Today";
-"times.date.tomorrow" = "Tomorrow";
-"times.date.yesterday" = "Yesterday";
-"times.date.datePicker" = "View times for...";
-"times.date.datePicker.today" = "Return to Today";
-"times.locationAlert.title" = "Change Location";
-"times.locationAlert.description" = "Would you like to pick a new location or use your current location?";
-"times.locationAlert.current" = "Use Current Location";
-"times.locationAlert.pick" = "Pick a Location";
-"times.noLocation.title" = "Location Not Retrieved";
-"times.noLocation.settings" = "Open Settings to Enable Permissions";
-"times.noLocation.enable" = "Enable Location Permissions";
-"times.noLocation.select" = "Select a Manual Location";
+"times.location.fetching" = "Pobieranie";
+"times.location.change" = "Zmień";
+"times.location.changeLocation" = "Zmień lokalizację";
+"times.location.current" = "Obecna lokalizacja";
+"times.location.fetchingLocation" = "Pobieranie lokalizacji";
+"times.date.previous" = "Poprzednia data";
+"times.date.next" = "Następna data";
+"times.date.today" = "Dzisiaj";
+"times.date.tomorrow" = "Jutro";
+"times.date.yesterday" = "Wczoraj";
+"times.date.datePicker" = "Zobacz pory dnia dla...";
+"times.date.datePicker.today" = "Wróć do Dzisiaj";
+"times.locationAlert.title" = "Zmień lokalizację";
+"times.locationAlert.description" = "Chcesz wybrać nową lokalizację, czy użyć aktualnie wybranej?";
+"times.locationAlert.current" = "Użyj obecnej lokalizacji";
+"times.locationAlert.pick" = "Wybierz lokalizację";
+"times.noLocation.title" = "Lokalizacja nie pobrana";
+"times.noLocation.settings" = "Otwórz Ustawienia, żeby włączyć uprawnienia";
+"times.noLocation.enable" = "Włącz uprawnienia lokalizacji";
+"times.noLocation.select" = "Wybierz lokalizację ręcznie(?)"; //"Select a Manual Location";
 
 // Predications
 "prediction.report.title" = "How is it looking?";
